@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Car_Inventory/static/css/main.86eabfa0.css",
+    "main.js": "/Car_Inventory/static/js/main.b5bb5f16.js",
+    "static/js/453.50a53a55.chunk.js": "/Car_Inventory/static/js/453.50a53a55.chunk.js",
+    "index.html": "/Car_Inventory/index.html",
+    "main.86eabfa0.css.map": "/Car_Inventory/static/css/main.86eabfa0.css.map",
+    "main.b5bb5f16.js.map": "/Car_Inventory/static/js/main.b5bb5f16.js.map",
+    "453.50a53a55.chunk.js.map": "/Car_Inventory/static/js/453.50a53a55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86eabfa0.css",
+    "static/js/main.b5bb5f16.js"
+  ]
+}
